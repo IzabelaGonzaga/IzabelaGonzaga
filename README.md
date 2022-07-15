@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Izabela</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
-<img align="right" alt="girl-coding" width="320" src="https://studyoverseasconsultancy.co.uk/wp-content/uploads/2021/07/contact.gif" />
+<img align="right" alt="girl-coding" width="320" src="https://camo.githubusercontent.com/92396247cce516278919b3fc74f9af3b2e965319e17975627680c446e7f1d013/68747470733a2f2f70726f322d6261722d73332d63646e2d6366352e6d79706f7274666f6c696f2e636f6d2f31376134376439653866343732376365356633653438383035623264386562322f36376362316134362d316430632d343566652d616233662d3532306534383032623162385f7277635f3078377838303078363236783830302e6769663f683d3365663338643262636563653736323033343535323538653064353835666539" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izabelagonzaga&label=Profile%20views&color=0e75b6&style=flat" alt="izabelagonzaga" /> </p>
 
