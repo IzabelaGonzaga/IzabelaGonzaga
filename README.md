@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working at Ambev Tech
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **C#**
 
 - ✨ Pronouns: she/her
 
